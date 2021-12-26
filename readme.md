@@ -1,3 +1,3 @@
 # We will game
 
-Future home of "We will game" blockchain fetureing the "willgame coin".
+Future home of "We will game" blockchain featuring the "willgame coin".

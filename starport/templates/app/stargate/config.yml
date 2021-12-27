@@ -1,10 +1,10 @@
 accounts:
-  - name: alice
+  - name: wpgw
     coins: ["20000token", "200000000stake"]
-  - name: bob
-    coins: ["10000token", "100000000stake"]
+  - name: willgame
+    coins: ["2000000000token", "100000000stake"]
 validator:
-  name: alice
+  name: wpgw
   staked: "100000000stake"
 client:
   openapi:
@@ -12,5 +12,6 @@ client:
   vuex:
     path: "vue/src/store"
 faucet:
-  name: bob
-  coins: ["5token", "100000stake"]
+  name: willgame
+  coins: ["10token", "100000stake"]
+

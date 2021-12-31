@@ -1,4 +1,4 @@
-# <img src="assets/Willgame.jpg" alt="Willgame">
+# <img src="assets/Willgame.jpg" alt="Willgame (WLG)">
 
 
 <!-- wp:paragraph -->

@@ -1,12 +1,12 @@
-# <img src="assets/Willgame.jpg" alt="Willgame (WLG)">
+# <img src="https://willpowergamewerks.com/wp-content/uploads/2022/01/wgl.png" alt="Willgame (WLG)">
 
 
 <!-- wp:paragraph -->
 <p></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":140,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://willpowergamewerks.com/wp-content/uploads/2021/12/wpgt.jpg" alt="" class="wp-image-140"/></figure>
+
+>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
